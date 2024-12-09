@@ -3,8 +3,8 @@
 
 **/.DS_Store
 
-go.sum
-go.mod
-$TITLE
-bin/
+.cache/
+todo
+build/
+obj/
 
